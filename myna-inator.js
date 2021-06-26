@@ -4,6 +4,7 @@ function myna(){
         alert("... I am a big fat chiiickenn !!");
     }
     else{
-
+        alert("Guess your are not interested !!");
     }
 }
+myna()
